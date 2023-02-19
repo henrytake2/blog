@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.blog-heading{
+    font-family: cursive;
+    font-size: 2rem;
+    text-align: center;
+    padding-top: 2rem;
+    color: rgb(121, 121, 121);
+}
+
+.blog-content{
+    width: 80%;
+    margin: auto;
+    padding-top: 5rem;
+}
+
+.blog-desc{
+    padding-top: 2rem;
+}
